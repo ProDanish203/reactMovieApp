@@ -1,0 +1,90 @@
+header{
+    height: 10vh;
+    line-height: 10vh;
+    background-image: linear-gradient(to right bottom, rgba(0,0,0,.9), rgba(0,0,0,.9), rgba(0,0,0,.6), rgba(0,0,0,.5), rgba(0,0,0,0));
+    color: #fff;
+    position: relative;
+    z-index: 999;
+}
+.logo h2{
+    color: var(--main);
+    font-size: 30px;
+}
+/* .logo img{
+    width: 150px;
+    margin-top: 20px;
+    margin-right: 30px;
+} */
+header .nav-link{
+    color: #fff;
+    margin-left: 30px;
+}
+header .nav-link:hover{
+    color: var(--main);
+}
+header i{
+    quotes: 40px;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    margin: 0 10px;
+    cursor: pointer;
+}
+header i:hover{
+    background-color: var(--main);
+    border-color: var(--second);
+}
+header .toggle{
+    display: none;
+    border: none;
+    font-size: 20px ;
+    font-weight: bold;
+    background: transparent;
+    color: var(--main);
+}
+header .toggle i{
+    border: none;
+}
+
+@media (max-width: 770px){
+    header nav .flexSB{
+        display: none;
+    }
+    .account{
+        display: none;
+    }
+    .navMenu-list{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: var(--bg);
+        width: 50%;
+        height: 100vh;
+        z-index: 100000000;
+        padding-top: 50px;
+        animation: nav .5s 1 ease-in-out;
+    }
+    @keyframes nav {
+        0%{
+            opacity: 0;
+            left: -100%;
+        }
+        100%{
+            opacity: 1;
+            left: 0;
+        }
+    }
+    .navMenu-list .nav-link{
+        color: var(--main);
+        font-size: 18px;
+    }
+    header .toggle{
+        display: block;
+        position: absolute;
+        right: 5px;
+    }
+}
