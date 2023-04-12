@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/reactMovieApp/static/css/main.d625ad92.css",
+    "main.js": "/reactMovieApp/static/js/main.455e17ef.js",
+    "static/js/787.7c42db31.chunk.js": "/reactMovieApp/static/js/787.7c42db31.chunk.js",
+    "static/media/video2.mp4": "/reactMovieApp/static/media/video2.7fa77b6b0d2b532d5ee0.mp4",
+    "static/media/video3.mp4": "/reactMovieApp/static/media/video3.d4c6d70845fb31197933.mp4",
+    "static/media/video4.mp4": "/reactMovieApp/static/media/video4.b528bed26b566dea1f22.mp4",
+    "static/media/video1.mp4": "/reactMovieApp/static/media/video1.d7b5bdca1e41d98ceae4.mp4",
+    "static/media/home2.jpg": "/reactMovieApp/static/media/home2.fe6edcbd61cbadf61c9f.jpg",
+    "static/media/home1.jpg": "/reactMovieApp/static/media/home1.45166e852fd4fb965d9c.jpg",
+    "static/media/u3.jpg": "/reactMovieApp/static/media/u3.0de09d3d1730bf16f0c8.jpg",
+    "static/media/home4.jpg": "/reactMovieApp/static/media/home4.b2f6df250ac666421449.jpg",
+    "static/media/u2.jpg": "/reactMovieApp/static/media/u2.b2f6df250ac666421449.jpg",
+    "static/media/u4.jpg": "/reactMovieApp/static/media/u4.871b9c0da313cdce908a.jpg",
+    "static/media/slide2.jpg": "/reactMovieApp/static/media/slide2.ff803245112bf5b4ab9a.jpg",
+    "static/media/u5.jpg": "/reactMovieApp/static/media/u5.ff803245112bf5b4ab9a.jpg",
+    "static/media/home3.jpg": "/reactMovieApp/static/media/home3.6e076684a537f3f65ac8.jpg",
+    "static/media/slide3.jpg": "/reactMovieApp/static/media/slide3.20563ccf66cbb98ca2b5.jpg",
+    "static/media/u1.jpg": "/reactMovieApp/static/media/u1.8d90ddf64eb87e45e7d8.jpg",
+    "static/media/slide1.png": "/reactMovieApp/static/media/slide1.dd1c68307d732b1bc2ab.png",
+    "static/media/u7.jpg": "/reactMovieApp/static/media/u7.b31a85cf1edc460be500.jpg",
+    "static/media/texure.jpg": "/reactMovieApp/static/media/texure.5fd81b0ea718d21dec89.jpg",
+    "static/media/u6.png": "/reactMovieApp/static/media/u6.1fc9880e7b333211885c.png",
+    "static/media/play.png": "/reactMovieApp/static/media/play.325e2c778f64f1f859e0.png",
+    "static/media/play-button.png": "/reactMovieApp/static/media/play-button.03b463e6a9c5af13367f.png",
+    "static/media/slick.svg": "/reactMovieApp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/reactMovieApp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/reactMovieApp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/reactMovieApp/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/reactMovieApp/index.html",
+    "main.d625ad92.css.map": "/reactMovieApp/static/css/main.d625ad92.css.map",
+    "main.455e17ef.js.map": "/reactMovieApp/static/js/main.455e17ef.js.map",
+    "787.7c42db31.chunk.js.map": "/reactMovieApp/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d625ad92.css",
+    "static/js/main.455e17ef.js"
+  ]
+}
